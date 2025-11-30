@@ -100,16 +100,7 @@ namespace PointCloudViz_Final
             }
             
            
-            Loaded += (_, __) => 
-            {
-                Logger.Info("MainWindow ???");
-                if (_cloud != null)
-                {
-                    UpdatePointCloudGPU(_cloud, resetCamera: true);
-                    PromptVoxelDownsampleIfLarge();
-                }
-                ShowNotification(StatusText.Text);
-            };
+            Loaded += MainWindow_Loaded;
             // 注意：Helix Toolkit 的 Viewport3DX 已经内置了鼠标和键盘交互
 
             // 测量工具事件
@@ -166,25 +157,6 @@ namespace PointCloudViz_Final
             // 确保滚轮事件能被捕获
             this.AddHandler(MouseWheelEvent, new MouseWheelEventHandler(Window_MouseWheel), true);
             
-            // 监控相机属性变化，同步到我们的变量
-            Loaded += (s, e) =>
-            {
-                if (HelixCamera != null)
-                {
-                    System.Windows.Media.CompositionTarget.Rendering += SyncCameraState;
-                }
-                if (StatusText != null)
-                {
-                    DependencyPropertyDescriptor.FromProperty(
-                        System.Windows.Controls.TextBlock.TextProperty,
-                        typeof(System.Windows.Controls.TextBlock))
-                        .AddValueChanged(StatusText, (_, __) =>
-                        {
-                            ShowNotification(StatusText.Text);
-                        });
-                }
-            };
-
             _notificationTimer.Interval = TimeSpan.FromSeconds(2.5);
             _notificationTimer.Tick += (_, __) =>
             {
@@ -192,6 +164,36 @@ namespace PointCloudViz_Final
                     NotificationPanel.Visibility = Visibility.Collapsed;
                 _notificationTimer.Stop();
             };
+        }
+
+        private void MainWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+            Logger.Info("MainWindow loaded");
+
+            if (HelixCamera != null && !_cameraInitialized)
+            {
+                System.Windows.Media.CompositionTarget.Rendering += SyncCameraState;
+                _cameraInitialized = true;
+            }
+
+            if (StatusText != null)
+            {
+                DependencyPropertyDescriptor.FromProperty(
+                    System.Windows.Controls.TextBlock.TextProperty,
+                    typeof(System.Windows.Controls.TextBlock))
+                    .AddValueChanged(StatusText, (_, __) =>
+                    {
+                        ShowNotification(StatusText.Text);
+                    });
+            }
+
+            if (_cloud != null)
+            {
+                UpdatePointCloudGPU(_cloud, resetCamera: true);
+                PromptVoxelDownsampleIfLarge();
+            }
+
+            ShowNotification(StatusText.Text);
         }
 
         private void UpdateUndoRedoMenu()
