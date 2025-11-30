@@ -1,0 +1,646 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\io\\xyzreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\io\\xyzreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\rendering\\optimizedrendererbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\rendering\\optimizedrendererbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\simpletwoinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\simpletwoinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\simpleoneinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\simpleoneinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\pointcloudviz_final.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\pointcloudviz_final.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\pointcloudapp.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\pointcloudapp.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\tools\\measurementtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\tools\\measurementtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\rendering\\softwarepointrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\rendering\\softwarepointrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\rendering\\pointcloudchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\rendering\\pointcloudchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\rendering\\lodawarerendererbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\rendering\\lodawarerendererbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\rendering\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\rendering\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\rendering\\gpupointrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\rendering\\gpupointrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\rendering\\gpuoptimizedrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\rendering\\gpuoptimizedrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\rendering\\chunkedpointcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\rendering\\chunkedpointcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\patterns\\voxeldownsamplecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\patterns\\voxeldownsamplecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\patterns\\progressobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\patterns\\progressobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\patterns\\iprogressobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\patterns\\iprogressobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\patterns\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\patterns\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\patterns\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\patterns\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\models\\pointrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\models\\pointrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\models\\pointcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\models\\pointcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\models\\octreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\models\\octreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\models\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\models\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\models\\boundingbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\models\\boundingbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\io\\xyzwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\io\\xyzwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\io\\streaminglasreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\io\\streaminglasreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\io\\plyreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\io\\plyreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\io\\ipointreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\io\\ipointreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\io\\basiclasreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\io\\basiclasreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\filters\\voxelgridfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\filters\\voxelgridfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\filters\\rangefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\filters\\rangefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\filters\\radiusoutlierfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\filters\\radiusoutlierfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\filters\\ipointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\filters\\ipointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\colormaps\\intensitycolormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\colormaps\\intensitycolormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\colormaps\\icolormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\colormaps\\icolormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\colormaps\\heightcolormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\colormaps\\heightcolormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\colormaps\\colormapbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\colormaps\\colormapbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|d:\\cfinaaltask\\1\\pointcloudviz_final\\pointcloudviz_final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1A0CD-5F8B-4375-9488-AB8C62EDEE11}|PointCloudViz_Final\\PointCloudViz_Final.csproj|solutionrelative:pointcloudviz_final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleOneInputDialog.xaml",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\SimpleOneInputDialog.xaml",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\SimpleOneInputDialog.xaml",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\SimpleOneInputDialog.xaml",
+              "RelativeToolTip": "PointCloudViz_Final\\SimpleOneInputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T05:15:12.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointCloudViz_Final.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\PointCloudViz_Final.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\PointCloudViz_Final.csproj.Backup.tmp",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\PointCloudViz_Final.csproj.Backup.tmp",
+              "RelativeToolTip": "PointCloudViz_Final\\PointCloudViz_Final.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T05:15:07.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PointCloudApp.log",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\PointCloudApp.log",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\PointCloudApp.log",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\PointCloudApp.log",
+              "RelativeToolTip": "PointCloudViz_Final\\PointCloudApp.log",
+              "ViewState": "AgIAAE4+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T05:14:47.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\App.xaml",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\App.xaml",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\App.xaml",
+              "RelativeToolTip": "PointCloudViz_Final\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T05:14:37.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OptimizedRendererBase.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\OptimizedRendererBase.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Rendering\\OptimizedRendererBase.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\OptimizedRendererBase.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Rendering\\OptimizedRendererBase.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:13:20.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XyzReader.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\XyzReader.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\IO\\XyzReader.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\XyzReader.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\IO\\XyzReader.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:46:05.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleTwoInputDialog.xaml",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\SimpleTwoInputDialog.xaml",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\SimpleTwoInputDialog.xaml",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\SimpleTwoInputDialog.xaml",
+              "RelativeToolTip": "PointCloudViz_Final\\SimpleTwoInputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T05:15:17.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LodAwareRendererBase.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\LodAwareRendererBase.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Rendering\\LodAwareRendererBase.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\LodAwareRendererBase.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Rendering\\LodAwareRendererBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:13:18.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MeasurementTool.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Tools\\MeasurementTool.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Tools\\MeasurementTool.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Tools\\MeasurementTool.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Tools\\MeasurementTool.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAA3wFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:26:47.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRenderer.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\IRenderer.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Rendering\\IRenderer.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\IRenderer.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Rendering\\IRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:13:15.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GpuOptimizedRenderer.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\GpuOptimizedRenderer.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Rendering\\GpuOptimizedRenderer.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\GpuOptimizedRenderer.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Rendering\\GpuOptimizedRenderer.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:57.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoftwarePointRenderer.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\SoftwarePointRenderer.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Rendering\\SoftwarePointRenderer.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\SoftwarePointRenderer.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Rendering\\SoftwarePointRenderer.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:03:03.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChunkedPointCloud.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\ChunkedPointCloud.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Rendering\\ChunkedPointCloud.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\ChunkedPointCloud.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Rendering\\ChunkedPointCloud.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:48.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PointCloudChunk.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\PointCloudChunk.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Rendering\\PointCloudChunk.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\PointCloudChunk.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Rendering\\PointCloudChunk.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAuwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:46:03.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VoxelDownsampleCommand.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\VoxelDownsampleCommand.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Patterns\\VoxelDownsampleCommand.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\VoxelDownsampleCommand.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Patterns\\VoxelDownsampleCommand.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:45.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProgressObservable.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\ProgressObservable.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Patterns\\ProgressObservable.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\ProgressObservable.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Patterns\\ProgressObservable.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:42.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProgressObserver.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\IProgressObserver.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Patterns\\IProgressObserver.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\IProgressObserver.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Patterns\\IProgressObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:40.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GpuPointRenderer.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\GpuPointRenderer.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Rendering\\GpuPointRenderer.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Rendering\\GpuPointRenderer.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Rendering\\GpuPointRenderer.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAAC0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:33:13.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\ICommand.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Patterns\\ICommand.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\ICommand.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Patterns\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:37.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\CommandManager.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Patterns\\CommandManager.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Patterns\\CommandManager.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Patterns\\CommandManager.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:33.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PointRecord.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\PointRecord.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Models\\PointRecord.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\PointRecord.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Models\\PointRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:31.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OctreeNode.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\OctreeNode.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Models\\OctreeNode.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\OctreeNode.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Models\\OctreeNode.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:07.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\Camera.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Models\\Camera.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\Camera.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Models\\Camera.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:03.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BoundingBox.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\BoundingBox.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Models\\BoundingBox.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\BoundingBox.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Models\\BoundingBox.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:12:00.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "XyzWriter.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\XyzWriter.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\IO\\XyzWriter.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\XyzWriter.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\IO\\XyzWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:56.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StreamingLasReader.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\StreamingLasReader.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\IO\\StreamingLasReader.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\StreamingLasReader.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\IO\\StreamingLasReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:39.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlyReader.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\PlyReader.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\IO\\PlyReader.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\PlyReader.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\IO\\PlyReader.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:35.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IPointReader.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\IPointReader.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\IO\\IPointReader.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\IPointReader.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\IO\\IPointReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:32.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PointCloud.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\PointCloud.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Models\\PointCloud.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Models\\PointCloud.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Models\\PointCloud.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAnwC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:45:16.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VoxelGridFilter.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Filters\\VoxelGridFilter.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Filters\\VoxelGridFilter.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Filters\\VoxelGridFilter.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Filters\\VoxelGridFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:20.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RangeFilter.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Filters\\RangeFilter.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Filters\\RangeFilter.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Filters\\RangeFilter.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Filters\\RangeFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:17.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RadiusOutlierFilter.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Filters\\RadiusOutlierFilter.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Filters\\RadiusOutlierFilter.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Filters\\RadiusOutlierFilter.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Filters\\RadiusOutlierFilter.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:14.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IPointFilter.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Filters\\IPointFilter.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\Filters\\IPointFilter.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\Filters\\IPointFilter.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\Filters\\IPointFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:12.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IntensityColorMap.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\ColorMaps\\IntensityColorMap.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\ColorMaps\\IntensityColorMap.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\ColorMaps\\IntensityColorMap.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\ColorMaps\\IntensityColorMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:07.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IColorMap.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\ColorMaps\\IColorMap.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\ColorMaps\\IColorMap.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\ColorMaps\\IColorMap.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\ColorMaps\\IColorMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:04.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HeightColorMap.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\ColorMaps\\HeightColorMap.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\ColorMaps\\HeightColorMap.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\ColorMaps\\HeightColorMap.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\ColorMaps\\HeightColorMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:11:01.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BasicLasReader.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\BasicLasReader.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\IO\\BasicLasReader.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\IO\\BasicLasReader.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\IO\\BasicLasReader.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAQwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:50:42.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ColorMapBase.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\ColorMaps\\ColorMapBase.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\ColorMaps\\ColorMapBase.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\ColorMaps\\ColorMapBase.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\ColorMaps\\ColorMapBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:10:58.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PointCloudViz_Final\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\cfinaaltask\\1\\PointCloudViz_Final\\PointCloudViz_Final\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PointCloudViz_Final\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAE0FAAAAAAAAAAAkwPoCAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:31:34.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
